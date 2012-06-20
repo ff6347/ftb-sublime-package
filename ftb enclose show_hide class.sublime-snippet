@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<a href="#" class="show_hide" rel="#slidingDivXX">[?]</a><div id="slidingDivXX">$SELECTION</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+		 <description>ftb enclose in show_hide class</description>
+
+</snippet>

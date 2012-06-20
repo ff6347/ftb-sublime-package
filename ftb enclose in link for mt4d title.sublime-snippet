@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<span id="overlay"><a href="#XX" title="Next" >&darr;</a>$SELECTION</span><a id="XX"></a><span id="overlay"><a href="#top" title="Back to Index" >&uarr;</a></span>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	 <description>ftb enclose in link for MT4D Title</description>
+
+</snippet>
