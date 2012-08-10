@@ -1,13 +1,15 @@
 <snippet>
 	<content><![CDATA[
-/**
- *  
- *	
- */ ]]></content>
+/** 
+ * 
+ * 
+ */ 
+
+]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	 <tabTrigger>cmt function</tabTrigger> 
+	<tabTrigger>fnct cmt</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
-	<description>ftb big function comment</description>
+	<description>ftb function comment</description>
 
 </snippet>
