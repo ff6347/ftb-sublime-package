@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+
+/* ------------------------------------------------------------------------------------------------ */
+
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>separator</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>a long separator comment</description>
+</snippet>
