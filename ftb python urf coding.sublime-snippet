@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+# -- coding: utf-8 --
+]]></content>
+	<discription>
+		Add utf coding to python files
+	</discription>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>encoding</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	 <scope>source.python</scope> 
+</snippet>

@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-<!--
 # Copyright (c)  2012
 # Fabian "fabiantheblind" Morón Zirfas
 # Permission is hereby granted, free of charge, to any
@@ -22,12 +21,12 @@
 # WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # see also http://www.opensource.org/licenses/mit-license.php
--->
+
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<!-- <tabTrigger>hello</tabTrigger> -->
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.js</scope> -->
-	    <description>MIT HTML License Code</description>
+	    <description>MIT PY License Code</description>
 
 </snippet>

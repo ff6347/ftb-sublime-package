@@ -1,0 +1,4 @@
+{
+"cmd": ["osascript -e  'tell application \"Adobe InDesign CS5\" to do script alias \"Users:fabiantheblind:Desktop:test:test.jsx\" language javascript '''\n"/*, "$file"*/],
+	"shell" : true
+}
