@@ -1,5 +1,5 @@
-{ "name": "Syntax Name",
-  "scopeName": "source.syntax_name",
+{ "name": "Bracket Higglighter",
+  "scopeName": "source.highlight",
   "fileTypes": [""],
   "patterns": [
   ],

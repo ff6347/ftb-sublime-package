@@ -380,7 +380,7 @@
     <key>settings</key>
     <dict>
         <key>foreground</key>
-        <string>#F92672</string>
+        <string>#FFFFFF0F</string>
     </dict>
 </dict>
 <dict>

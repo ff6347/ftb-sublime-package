@@ -1,11 +1,9 @@
 <snippet>
-	<content><![CDATA[
-{% include ${1:filename}.${2:extension} %}
-]]></content>
+	<content><![CDATA[<?php _e('$SELECTION','motrton-one'); ?>]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>incl</tabTrigger>
+	<!-- <tabTrigger>hello</tabTrigger> -->
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.js</scope> -->
-	    <description>ftb insert jekyll include</description>
+	    <description>ftb wordpress enclose in localize NOT IN PHP function</description>
 
 </snippet>

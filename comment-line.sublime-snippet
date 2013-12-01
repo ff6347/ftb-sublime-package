@@ -1,0 +1,23 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <!-- http://sublimetext.info/docs/en/extensibility/snippets.html -->
+  <!-- $SELECTION -->
+  <!-- $TM_CURRENT_LINE -->
+  <!-- $TM_CURRENT_WORD -->
+  <!-- $TM_FILENAME -->
+  <!-- $TM_FILEPATH -->
+  <!-- $TM_FULLNAME -->
+  <!-- $TM_LINE_INDEX -->
+  <!-- $TM_LINE_NUMBER -->
+  <!-- $TM_SELECTED_TEXT -->
+  <!-- $TM_SOFT_TABS -->
+  <!-- $TM_TAB_SIZE -->
+  <content><![CDATA[
+// ------------ ${1:ADD SOME TEXT HERE} ------------
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cmt</tabTrigger>
+  <description>comment line with option</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.jsx</scope> -->
+</snippet>
